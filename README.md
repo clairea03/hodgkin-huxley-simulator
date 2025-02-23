@@ -1,1 +1,0 @@
-# hodgkin-huxley-simulator
